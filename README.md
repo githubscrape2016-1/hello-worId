@@ -1,4 +1,4 @@
 hello-worId
 ===========
 
-My first repository on GitHub.
+Octocat's first repository on GitHub.
